@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heading><author>Percy Bysshe Shelley</author>, <title>Ozymandias</title></heading>
+
+
+<lg type="poem">
+    <lg type="stanza">
+        <l>I met a traveller from an antique land,</l>
+        <l>Who said —<milestone quote layer 1>“Two vast and trunkless legs of stone</l>
+        <l>Stand in the desart.... Near them, on the sand,</l>
+        <l>Half sunk a shattered visage lies, whose frown,</l>
+        <l>And wrinkled lip, and sneer of cold command,</l>
+        <l>Tell that its sculptor well those passions read</l>
+        <l>Which yet survive, stamped on these lifeless things,</l>
+        <l>The hand that mocked them, and the heart that fed;</l>
+        <l>And on the pedestal, these words appear:</l>
+        <l><milestone speaker="Ozymandias" layer 2>My name is Ozymandias, King of Kings,</l>
+        <l>Look on my Works, ye Mighty, and despair!<milestone end quote></l>
+        <l>Nothing beside remains. Round the decay</l>
+        <l>Of that colossal Wreck, boundless and bare</l>
+        <l>The lone and level sands stretch far away.”<milestone end quote layer 1></l>
+    </lg>
+</lg>
