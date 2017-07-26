@@ -1,5 +1,7 @@
 # eXist-db XQuery 3 and webapps
 
+We continue with XQuery and get into how to create webapps in eXist-db.
+
 ## httpclient example 1
 ```xquery
 xquery version "3.0";
@@ -213,6 +215,11 @@ declare option exist:serialize "method=html5 enforce-xhtml=yes";
 request:get-parameter($name, $value)
 ```
 `$name` is the name of the parameter and `$default`  is the default value to use if the parameter is not given.
+
+See more functions in request and response modules:
+* <http://demo.exist-db.org/exist/apps/fundocs/view.html?uri=http://exist-db.org/xquery/request&location=java:org.exist.xquery.functions.request.RequestModule>
+* <http://demo.exist-db.org/exist/apps/fundocs/view.html?uri=http://exist-db.org/xquery/response&location=java:org.exist.xquery.functions.response.ResponseModule>
+
 
 ## Structure your app
 _EXPath_ is an effort to standardize XQuery extension modules across implementations.
