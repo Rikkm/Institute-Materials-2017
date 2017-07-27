@@ -23,7 +23,7 @@ Time | Topic | Type
 
 ## 10:30–11:00: Coffee break
 
-## 11:00–12:30: [Using APIs in your edition](using_aips_edition.md)
+## 11:00–12:30: [Using APIs in your edition](using_apis_edition.md)
 
 Time | Topic | Type
 ---- | ---- | ---- 
@@ -36,7 +36,7 @@ Time | Topic | Type
 
 ## 12:30–2:00: Lunch
 
-## 2:00–3:30: Building your own API
+## 2:00–3:30: [Building your own API](building_apis.md)
 
 Time | Topic | Type
 ---- | ---- | ---- 
