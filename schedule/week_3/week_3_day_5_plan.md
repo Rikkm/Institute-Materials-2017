@@ -12,7 +12,7 @@
 * **Code lab:** participants code alone or in small groups
 
 * * *
-## 9:00–10:30: Publishing strategies and sustainability
+## 9:00–10:30: [Publishing strategies and sustainability](week_3_day_5_session_1.md)
 
 Time | Topic | Type
 ---- | ---- | ---- 
@@ -23,7 +23,7 @@ Time | Topic | Type
 
 ## 10:30–11:00: Coffee break
 
-## 11:00–12:30: Data visualization
+## 11:00–12:30: [Data visualization](visualization.md)
 
 Time | Topic | Type
 ---- | ---- | ---- 
@@ -38,7 +38,7 @@ Time | Topic | Type
 
 Time | Topic | Type
 ---- | ---- | ---- 
-90 min |  | Code lab
+90 min | Deployment | Code lab
 
 ## 3:30–4:00: Coffee break
 
@@ -46,6 +46,6 @@ Time | Topic | Type
 
 Time | Topic | Type
 ---- | ---- | ---- 
-90 min |  | Discussion
+90 min | Taking stock | Discussion
 
 We’ll end each day with a request for feedback, based on a general version of the day’s outcome goals, and we’ll try to adapt on the fly to your responses. Please complete [Week 3, Day 5 feedback](week_3_day_5_feedback.md) (just copy and paste it into a plain-text document) and email your response to Kaylen at [kaylensanders@pitt.edu](mailto:kaylensanders@pitt.edu) with the subject heading “Week 3, Day 5 feedback”.

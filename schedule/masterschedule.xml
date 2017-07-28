@@ -988,7 +988,7 @@
             <date>July 28</date>
             <syn/>
             <slot time="09:00:00">
-                <title>Publishing strategies and sustainability</title>
+                <title>[Publishing strategies and sustainability](week_3_day_5_session_1.md)</title>
                 <act time="25" type="Discussion">
                     <desc>Publishing strategies</desc>
                 </act>
@@ -1009,7 +1009,7 @@
                 </act>
             </slot>
             <slot time="11:00:00">
-                <title>Data visualization</title>
+                <title>[Data visualization](visualization.md)</title>
                 <act time="25" type="Presentation">
                     <desc>Data visualization 1</desc>
                 </act>
@@ -1032,7 +1032,7 @@
             <slot time="14:00:00">
                 <title>Deployment and further coding if needed</title>
                 <act time="90" type="Code_lab">
-                    <desc/>
+                    <desc>Deployment</desc>
                 </act>
             </slot>
             <slot time="15:30:00">
@@ -1044,7 +1044,7 @@
             <slot time="16:00:00">
                 <title>Wrapping up: What have we learned?</title>
                 <act time="90" type="Discussion">
-                    <desc/>
+                    <desc>Taking stock</desc>
                 </act>
             </slot>
         </day>
